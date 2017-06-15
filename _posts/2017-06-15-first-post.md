@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "First post"
+title: "Second post"
 date: 2017-06-15
 ---
 
-# First post!
+# Second post!
 
 Well. Finally got around to putting this old website together. 
 Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. 
