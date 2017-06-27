@@ -4,9 +4,9 @@ title: "First thougths"
 date: 2017-06-27
 ---
 
-# First thoughts!
+# First thoughts
 
-Well. I have a rough sketch of my Lizzymccalder website. For now, I have different projects in mind. 
+I have a rough sketch of my Lizzymccalder website. For now, I have different projects in mind. 
 
 <ol>
 <li>Lizzy Answers</li>
