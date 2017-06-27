@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "First thougths"
+title: "First Thougths"
 date: 2017-06-27
 ---
 
