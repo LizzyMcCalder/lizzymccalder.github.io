@@ -6,6 +6,8 @@ date: 2017-06-27
 
 # The Sky Is The Limit
 
+![image-title-here](/path/to/image.jpg){:class="img-responsive"}
+
 ![](/_img/image_3884.jpg)
 
 ![](/_img/image_3891.jpg)
