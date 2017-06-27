@@ -6,7 +6,9 @@ date: 2017-06-27
 
 # The Sky Is The Limit
 
-![1](file:///C:\\Users\Elisabeth\Pictures\The sky is the limit\img_3884.jpg)
+![]
+
+(file:///C:\\Users\Elisabeth\Pictures\The sky is the limit\img_3884.jpg)
 
 ![2](file:///C:\\Users\Elisabeth\Pictures\The sky is the limit\img_3891.jpg)
 
