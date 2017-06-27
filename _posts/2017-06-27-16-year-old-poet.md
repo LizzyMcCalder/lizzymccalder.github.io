@@ -6,10 +6,9 @@ date: 2017-06-27
 
 # 16 Year Old Poet
 
-### Day 1
 maybe the real good metaphors are not metaphors but truths of life itself and we their carriers instead of language.
 
-### Day 2
+### 1
 black cold empty
 
 
@@ -32,7 +31,7 @@ i am the lonely star
 
 
 
-### Day 3
+### 2
 behind my eyes
 
 
@@ -43,12 +42,12 @@ no escape
 
 
 
-### Day 4
+### 3
 i cry
 
 
 
-### Day 5
+### 4
 i cry 
 
 
@@ -62,7 +61,7 @@ i could stretch out stretch.
 
 
 
-### Day 6
+### 5
 i cry
 
 
@@ -88,7 +87,7 @@ will you come
 
 
 
-### Day 7
+### 6
 i cry
 
 
@@ -96,7 +95,7 @@ from on top
 
 
 
-### Day 8
+### 7
 and again i was crying
 
 
@@ -111,7 +110,7 @@ over
 
 
 
-### Day 9
+### 8
 i float
 
 
@@ -131,7 +130,7 @@ i am alive
 
 
 
-### Day 10
+### 9
 sad
 
 
