@@ -21,7 +21,7 @@ I love a challenge and a good question gets me running. This is the place where 
 ### The sky is the limit
 I like making pictures of the trees in the sky. This is where I will collect them.
 
-### 16 years old and writing
+### 16 year old poet
 I have a 16 year old girl inside me. She is not a happy soul, but has when she expresses herself she does so in beautiful poetic language. I would like to try to post some of her poems.
 
 ### The brave light in elderly people
