@@ -7,7 +7,7 @@ date: 2017-06-27
 # 16 Year Old Poet
 
 ### Day 1
-This is what I often think: Maybe the real good metaphors are not metaphors but truths of life itself and we their carriers instead of language.
+Maybe the real good metaphors are not metaphors but truths of life itself and we their carriers instead of language.
 
 ### Day 2
 black cold empty
