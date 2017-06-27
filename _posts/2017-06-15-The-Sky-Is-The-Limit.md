@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The sky is the limit"
+title: "The Sky Is The Limit"
 date: 2017-06-27
 ---
 
