@@ -4,14 +4,14 @@ title: "First thougths"
 date: 2017-06-27
 ---
 
-# First thoughts
+# First Thoughts
 
 I have a rough sketch of my Lizzymccalder website. For now, I have different projects in mind. 
 
 <ol>
 <li>Lizzy Answers</li>
 <li>The sky is the limit</li>
-<li>16 years old and writing</li>
+<li>16 year old poet</li>
 <li>The brave light in elderly people</li>
 </ol>
 
