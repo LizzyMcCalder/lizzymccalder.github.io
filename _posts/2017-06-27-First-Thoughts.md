@@ -6,13 +6,12 @@ date: 2017-06-27
 
 # First Thoughts
 
-I have a rough sketch of my Lizzymccalder website. For now, I have different projects in mind. 
+I have a rough sketch of my Lizzymccalder website. For now, I have 3 projects in mind. 
 
 <ol>
 <li>Lizzy Answers</li>
 <li>The sky is the limit</li>
 <li>16 year old poet</li>
-<li>The brave light in elderly people</li>
 </ol>
 
 ### Lizzy Answers
@@ -23,6 +22,3 @@ I like making pictures of the trees in the sky. This is where I will collect the
 
 ### 16 year old poet
 I have a 16 year old girl inside me. She is not a happy soul, but has when she expresses herself she does so in beautiful poetic language. I would like to try to post some of her poems.
-
-### The brave light in elderly people
-Elderly people are an inspiring lot. They are supposed to be all grown up, wise, bethought and poised, but they hardly ever are. Instead, they show a kaleidoscope of human struggle and human life. This almost always ingites philosophical thought. In *The brave light in elderly people* I will show why and how.
