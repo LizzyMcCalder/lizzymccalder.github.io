@@ -160,3 +160,11 @@ sad
 as a bone
 
 
+### 10
+
+eyes only
+eyes only
+only eyes
+
+### 11
+can seeing burst startdust
