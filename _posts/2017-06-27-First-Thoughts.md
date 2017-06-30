@@ -6,7 +6,7 @@ date: 2017-06-27
 
 # First Thoughts
 
-I have a rough sketch of my Lizzymccalder website. For now, I have 3 projects in mind. 
+I have a rough sketch of my LizzyMcCalder website. For now, I have 3 projects in mind. 
 
 <ol>
 <li>Lizzy Answers</li>
