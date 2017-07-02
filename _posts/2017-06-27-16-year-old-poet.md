@@ -2,6 +2,7 @@
 layout: default
 title: "16 Year Old Poet"
 date: 2017-06-27
+categories: poet
 ---
 
 # 16 Year Old Poet

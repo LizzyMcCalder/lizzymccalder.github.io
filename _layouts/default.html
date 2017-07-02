@@ -5,25 +5,24 @@
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/cv">CV</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
+		<body class="sans-serif">
+			<header>
+				<nav class="mw5 mw7-ns center pa3">
+	        		<a class="link dim gray f6 f5-ns dib mr3" href="/">Home</a>
+		        	<a class="link dim gray f6 f5-ns dib mr3" href="/lizzy-answers">Lizzy Answers</a>
+	        		<a class="link dim gray f6 f5-ns dib mr3" href="/16-year-old-poet">16 year old poet</a>
+	        		<a class="link dim gray f6 f5-ns dib mr3" href="/the-sky-is-the-limit">The Sky Is The Limit</a>
+				</nav>
+			</header>
+			<main>
+				<div class="mw5 mw7-ns center pa3">
+				
+				{{ content }}
+				
+				</div><!-- /.container -->
+			</main>
+
 			<footer>
-	    		<ul>
-	        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-	        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
-				</ul>
 			</footer>
 		</body>
 	</html>
