@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "First Thougths"
 date: 2017-06-27
 ---

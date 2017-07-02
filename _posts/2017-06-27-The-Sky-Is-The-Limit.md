@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "The Sky Is The Limit"
 date: 2017-06-27
 categories: sky

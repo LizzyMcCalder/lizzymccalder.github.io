@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "16 Year Old Poet"
 date: 2017-06-27
 categories: poet
