@@ -5,7 +5,7 @@ title: Lizzy McCalder
 
 <h1>{{ page.title }}</h1>
 <ul class="list f6 pl0 mt3 mb0">
-  {% for post in site.posts %}
+  {% for post in site.categories.answers %}
     <li class="pv2">
       <a class="link blue lh-title" href="{{ post.url }}" title="{{ post.title }}">
         <span class="fw7 underline-hover">{{ post.title }}</span>
