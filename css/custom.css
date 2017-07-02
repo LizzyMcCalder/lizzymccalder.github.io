@@ -1,9 +1,12 @@
 /* POSTS */
 
-.post p {
+.post {
+    font-family: "PT Serif", Georgia, serif;
     line-height: 1.5rem;
 }
 
-.post ul {
-    
+.post hl,
+.post h2,
+.post h3 {
+    font-family: "Open Sans", sans-serif;
 }
