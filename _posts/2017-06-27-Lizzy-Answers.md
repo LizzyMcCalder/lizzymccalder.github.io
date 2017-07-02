@@ -1,5 +1,5 @@
 ---
-layout: post
+layout:post
 title: "Lizzy Answers"
 date: 2017-06-27
 categories: answers
