@@ -5,7 +5,7 @@ date: 2017-06-27
 categories: answers
 ---
 
-# * What's wrong with saying *It was just meant to be? *
+# What's wrong with saying *It was just meant to be* ?
 
 We all know these conversations where one person explains a positive or negative change in life situation to another person. We all know the desire to try to make sense of these changes. Why did it happen and how should we come to terms with it? Most of us also know that sometimes - or very often depending on how confident you are - we don't know the answers to these questions. And for those sometimes, we often say: "I guess it was just meant to be." Intuitively, something seems to be wrong here. But what?
 
